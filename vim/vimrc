@@ -4,7 +4,7 @@
 "Color scheme
 "Use light time until 12 pm and dark after
 
-if strftime("%H") < 12
+if strftime("%H") < 16 && strftime("%H") > 7
   set background=light
 else
   set background=dark
