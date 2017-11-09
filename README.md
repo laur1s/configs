@@ -3,5 +3,5 @@
 ## Vim config
 My vim configuration files.
 
-# Zsh config
+## Zsh config
 to be added soon
